@@ -1,2 +1,4 @@
-def greatest_among_three(a, b, c):
-    return max(a, b, c)
+x=int(input("Enter your x number:"))
+y=int(input("Enter your y number:"))
+z=x+y
+print("The greatest number ",z)
